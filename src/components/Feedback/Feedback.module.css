@@ -1,0 +1,29 @@
+.commentResaltList {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.commentResaltList li {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.commentResaltList li:nth-child(1) {
+  color: blue;
+}
+.commentResaltList li:nth-child(2) {
+  color: green;
+}
+.commentResaltList li:nth-child(3) {
+  color: red;
+}
+.commentResaltList li:nth-child(4) {
+  color: blueviolet;
+}
+.commentResaltList li:nth-child(5) {
+  color: teal;
+}
